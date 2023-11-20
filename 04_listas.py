@@ -34,3 +34,4 @@ print(numbers)
 number_v2 = [element*2 for element in range(1, 11) if element % 2 ==0] 
 print(number_v2)
 
+
